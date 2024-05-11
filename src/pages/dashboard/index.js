@@ -1,0 +1,10 @@
+export * from "@/pages/dashboard/home";
+export * from "@/pages/dashboard/trade";
+export * from "@/pages/dashboard/trade";
+export * from "@/pages/dashboard/product-manufactured";
+export { default as Client } from "./client";
+export { default as Workers } from "./workers";
+export { default as Profile } from "./profile";
+export { default as ProductDefaultInfo } from "./product-default-info";
+export { default as ProductBaseSee } from "./product-base-see";
+export { default as TradeHistory } from "./trade-history";

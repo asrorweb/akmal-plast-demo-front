@@ -1,0 +1,15 @@
+export { default as AddProduct } from "./product-default-info/add-product";
+export { default as EditProductDefaultInfo } from "./product-default-info/edit-product-default-info";
+export { default as AddWorkers } from "./workers/add-workers";
+export { default as EditWorker } from "./workers/edit-worker";
+export { default as ProductManufacturedTable } from "./product-manufactured/product-manufactured-table";
+export { default as ProductBaseSeeList } from "./product-base-see/product-base-see-list";
+export { default as ProductBaseSeeInfo } from "./product-base-see/product-base-see-info";
+export { default as RegularCustomersTabPanel } from "./trade/regular-customers-tab-panel";
+export { default as CustomersTabPanel } from "./trade/customers-tab-panel";
+export { default as AddClients } from "./clients/add-clients";
+export { default as EditClients } from "./clients/edit-clients";
+export { default as ProductSelectTrade } from "./trade/product-select-trade";
+export { default as TradeFooter } from "./trade/trade-footer";
+export { default as TradeHistoryView } from "./trade-history/trade-history-view";
+export { default as ClientTradeHistoryView } from "./clients/client-trade-history-view";
